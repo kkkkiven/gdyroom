@@ -1,0 +1,12 @@
+temp/
+packages/
+build/
+local/
+library/
+settings/
+.idea/
+version_generator.js
+version_generator.sh
+vscproject.bat
+
+

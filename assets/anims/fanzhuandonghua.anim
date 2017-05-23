@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "anniuguangxiao",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.5,
+  "sample": 16,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "9261fecd-5bfb-4c72-9157-e4fbfe7c8b1c"
+            }
+          },
+          {
+            "frame": 0.4375,
+            "value": {
+              "__uuid__": "9261fecd-5bfb-4c72-9157-e4fbfe7c8b1c"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": 1
+        },
+        {
+          "frame": 0.4375,
+          "value": -1
+        }
+      ]
+    }
+  },
+  "events": []
+}
